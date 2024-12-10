@@ -1,5 +1,5 @@
 def main():
-    f = open("../input.txt", "r")
+    f = open("input.txt", "r")
     ans = 0
     left = []
     right_occurances = {}

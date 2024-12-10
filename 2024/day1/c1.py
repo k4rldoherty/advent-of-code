@@ -1,5 +1,5 @@
 def main():
-    f = open("../input.txt", "r")
+    f = open("input.txt", "r")
     left = []
     right = []
     diff = 0
